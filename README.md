@@ -1,8 +1,10 @@
 # news-image-20261126 — v5
 
-![news-image-20261126](https://img.shields.io/badge/make.fun-news--image--20261126-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-![python](https://img.shields.io/badge/python-3.13-blue)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/spikip/makefun-news-image-26-v5/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/spikip/makefun-news-image-26-v5/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
+See the bounty: https://make.fun/bounty/news-image-20261126
 
 One image summing up the world news of Thursday 26 November 2026:
 a nor'easter grounds New York's 100th Thanksgiving parade, India marks
